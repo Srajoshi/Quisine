@@ -588,12 +588,12 @@ $(document).ready(function () {
   //Initializing firebase
   // FB key
   var config = {
-    apiKey: "AIzaSyBd48dzN-XI4-K8ay8IdXIlkm1__G5_NS8",
-    authDomain: "quisine-49ccf.firebaseapp.com",
-    databaseURL: "https://quisine-49ccf.firebaseio.com",
-    projectId: "quisine-49ccf",
-    storageBucket: "quisine-49ccf.appspot.com",
-    messagingSenderId: "962399784259"
+    apiKey: "AIzaSyDgCPqf7Abqgd9vD0GLbbOPJv0yIx4BPhU",
+    authDomain: "quisine-personal.firebaseapp.com",
+    databaseURL: "https://quisine-personal.firebaseio.com",
+    projectId: "quisine-personal",
+    storageBucket: "quisine-personal.appspot.com",
+    messagingSenderId: "660135925588"
   };
   firebase.initializeApp(config);
 
